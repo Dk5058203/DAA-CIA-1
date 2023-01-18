@@ -25,6 +25,11 @@ directed graph, the edges have a direction and it is possible for there to be mu
 
 
 
+DIJIKSTRA 
 
 
+![Screenshot (3)](https://user-images.githubusercontent.com/89071341/213096118-7dbf24b8-c411-4b76-bb3b-51c74a8e81de.png)
+ITS NOT PO0SSIBLE FOR THIS DIRECTED GRAPH
+
+Dijkstra's algorithm is a single-source shortest path algorithm that is typically used to find the shortest path from one vertex to all other vertices in an undirected or directed graph with non-negative edge weights.
 
