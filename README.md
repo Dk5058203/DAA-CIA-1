@@ -15,5 +15,16 @@ total cost=8
 KRUSKAL'S METHOD
 
 
+![Screenshot (2)](https://user-images.githubusercontent.com/89071341/213095246-95824330-6712-4384-ade6-6c27fff231d3.png)
+
+Kruskal's algorithm is a greedy algorithm for finding the Minimum Spanning Tree (MST) in an  graph. The algorithm starts with an empty MST and iteratively adds edges to the MST, until all the vertices in the graph are connected. The edges are added in increasing order of weight, and only those edges are considered for addition that do not form a cycle in the current MST.
+
+
+EVENTHOUGH IT DOESNT SATISFY SINCE IT DIRECTED GRAPH AND ALSO NEGATIVE VALUE IN  ,
+directed graph, the edges have a direction and it is possible for there to be multiple paths between two vertices. A directed graph can contain cycles and it is not guaranteed that there exists a tree that connects all vertices in the graph. Therefore, the concept of an MST does not apply to directed graphs and Kruskal's algorithm cannot be used to find an MST in a directed graph.
+
+
+
+
 
 
